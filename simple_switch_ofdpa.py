@@ -2,9 +2,9 @@
 #
 # This application provides a L2 switching function based on OF-DPA switch.
 #
-# Author: Danny Liu
+# Author: TeYen(Danny) Liu
 #
-# Copyright (C) 2014 Inventec Corporation.
+# Copyright (C) 2015 Gemini Open Cloud Corporation.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
